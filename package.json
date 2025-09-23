@@ -1,0 +1,14 @@
+{
+  "name": "as",
+  "version": "1.0.0",
+  "description": "cuddly-doodle",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js",
+    "cli": "node cli.js"
+  },
+  "keywords": ["get", "data", "retrieval"],
+  "author": "",
+  "license": "MIT"
+}
